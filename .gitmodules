@@ -1,6 +1,0 @@
-[submodule "thirdparty/rapidjson"]
-	path = thirdparty/rapidjson
-	url = git@github.com:Tencent/rapidjson.git
-[submodule "thirdparty/glfw"]
-	path = thirdparty/glfw
-	url = git@github.com:glfw/glfw.git
